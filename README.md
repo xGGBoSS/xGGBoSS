@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Welcome to my profile in Github.
 
-<!--
-**xGGBoSS/xGGBoSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently developing scripts for the FiveM community.
 
-Here are some ideas to get you started:
+- 📱 This is my discord name: xGGBoSS#7710
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning more of HTML, CSS and JS.
+
+- 📈 My top langs in github are this:
+
+![xGGBoSS](https://github-readme-stats.vercel.app/api/top-langs/?username=xGGBoSS)
+
+- 📊 This are my stats in Github: 
+
+![xGGBoSS](https://github-readme-stats.vercel.app/api?username=xGGBoSS)
+
